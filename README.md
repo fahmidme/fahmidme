@@ -1,7 +1,7 @@
 # Hi there, I'm Fahmid Uddin 👋
 
 ## 🚀 About Me
-- 🌐 CTO at GPT Protocol & Founder of XXCORP INC.
+- 🌐 Head of Special Projects at GPT Protocol & Founder of XXCORP INC.
 - 💻 AI & Blockchain enthusiast turning innovative ideas into reality.
 - 🤖 Creator of AIORBIT, a unique blend of AI and blockchain.
 - 🌟 Led pivotal projects in decentralized tech and NFTs.
