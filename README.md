@@ -1,32 +1,32 @@
-# Hi there, I'm Fahmid Uddin 👋
+# Fahmid Uddin
+  Founder building AI systems & products.
 
-## 🚀 About Me
-- 🌐 Head of Special Projects at GPT Protocol & Founder of XXCORP INC.
-- 💻 AI & Blockchain enthusiast turning innovative ideas into reality.
-- 🤖 Creator of AIORBIT, a unique blend of AI and blockchain.
-- 🌟 Led pivotal projects in decentralized tech and NFTs.
+  Toronto, Canada · fahmid.me@gmail.com · https://fahmid.com
+  GitHub: https://github.com/nexoreai · X: https://x.com/hellofahmid
 
-## 🔧 Tech Toolbox
-- **Languages**: JavaScript, Python, Solidity
-- **Frameworks**: React, Node.js, Angular
-- **Tools & Platforms**: AWS, Git, GraphQL
-- **Specialties**: AI Integration, Blockchain, DevOps, UI/UX Design
+  ## Current focus
+  - **Nexore** — AI operating system for solo operators to run world‑class businesses.
+  - **Optifly** — AI travel command center that turns one prompt into a shareable itinerary.
+  - **AI Account Executive** — sales clarity for lean teams; research → outreach → pipeline.
 
-## 🚀 Projects & Contributions
-- **ThemeCraft**: A React-based web app that uses OpenAI to convert natural language into custom web themes. It features dynamic CSS generation, interactive editing, and export capabilities.
-- **Guess My Age**: A fun JavaScript project built with Remix that predicts age based on a user’s name, using Agify's API.
-- **Stable Diffusion Art**: An art app designed for kids with autism, providing a creative and accessible platform for artistic expression.
+  ## Highlights
+  - **Gitfolio** — shipped an AI resume builder SaaS and sold the product.
+  - **Metagood (First engineer)** — helped launch OnChainMonkey.
+  - **Decise.io** — delivered ordering experiences for City BBQ, Pieology, and Chipotle.
+  - **LegixAI** — built AI‑driven accounting workflows.
 
-## 🤝 Connect with Me
-- **LinkedIn**: [linkedin.com/in/fahmidme](https://www.linkedin.com/in/fahmidme)
-- **Website**: [www.fahmid.com](http://www.fahmid.com)
+  ## Focus areas
+  - Founding engineer leadership (0‑1 product, infra, delivery cadence)
+  - Agentic tooling (MCP servers, multi‑agent workflows)
+  - AI sales enablement
+  - Web & product experiences with cinematic polish
 
-## 📚 Always Learning
-- Constantly exploring new tech frontiers in AI and blockchain.
-- Keen on developing products that blend tech with storytelling.
+  ## Stack
+  - Next.js, TypeScript, React
+  - Cloud platforms, MCP tooling, agent workflows
+  - LangBase
 
-## 🎯 Looking Ahead
-- Open to collaborating on innovative tech projects.
-- Eager to contribute to transformative digital solutions.
-
-"Turning cutting-edge ideas into impactful technological solutions, one code line at a time."
+  ## Content
+  - YouTube: **brandlax** — 1.19M total views
+  - TikTok: **@hellofahmid** — 23K likes
+  - X: **@hellofahmid** — daily build notes
