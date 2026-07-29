@@ -1,32 +1,48 @@
 # Fahmid Uddin
-  Founder building AI systems & products.
 
-  Toronto, Canada · fahmid.me@gmail.com · https://fahmid.com
-  GitHub: https://github.com/nexoreai · X: https://x.com/hellofahmid
+Applied AI platform engineer, product builder, and founder. I build agent infrastructure and AI-native products.
 
-  ## Current focus
-  - **Nexore** — AI operating system for solo operators to run world‑class businesses.
-  - **Optifly** — AI travel command center that turns one prompt into a shareable itinerary.
-  - **AI Account Executive** — sales clarity for lean teams; research → outreach → pipeline.
+15 years building software across startups, product teams, and my own companies.
 
-  ## Highlights
-  - **Gitfolio** — shipped an AI resume builder SaaS and sold the product.
-  - **Metagood (First engineer)** — helped launch OnChainMonkey.
-  - **Decise.io** — delivered ordering experiences for City BBQ, Pieology, and Chipotle.
-  - **LegixAI** — built AI‑driven accounting workflows.
+Toronto, Canada · [fahmid.com](https://fahmid.com) · [LinkedIn](https://linkedin.com/in/fahmidme) · [X](https://x.com/hellofahmid) · [Email](mailto:fahmid.me@gmail.com)
 
-  ## Focus areas
-  - Founding engineer leadership (0‑1 product, infra, delivery cadence)
-  - Agentic tooling (MCP servers, multi‑agent workflows)
-  - AI sales enablement
-  - Web & product experiences with cinematic polish
+## What I’m building
 
-  ## Stack
-  - Next.js, TypeScript, React
-  - Cloud platforms, MCP tooling, agent workflows
-  - LangBase
+- **[Nexore / xOS](https://nexore.ai)** — a self-hosted AI control plane for agent workflows, semantic memory, and permission-aware integrations.
+- **[Optifly](https://optifly.ai)** — an AI travel command center that turns one prompt into an editable, shareable itinerary.
+- **AI Account Executive** — a research-to-pipeline system for lean teams, covering account research, outreach, and pipeline visibility.
 
-  ## Content
-  - YouTube: **brandlax** — 1.19M total views
-  - TikTok: **@hellofahmid** — 23K likes
-  - X: **@hellofahmid** — daily build notes
+## Selected engineering work
+
+- **[AgentCore AG-UI Starter](https://github.com/fahmidme/agentcore-agui-starter)** — streams a Strands agent from Amazon Bedrock AgentCore into a Next.js and CopilotKit interface over AG-UI. Includes CI, architecture documentation, security boundaries, and a production roadmap.
+- **[Incident Triage API](https://github.com/fahmidme/incident-triage-api)** — a FastAPI service with SQLite FTS5 retrieval, grounded OpenAI responses, citation validation, traces, tests, and synthetic incident data.
+- **[Nano Banana MCP](https://github.com/nexoreai/nano-banana-mcp)** — a TypeScript MCP server for Gemini image generation on Vertex AI, with GCS references, progress notifications, and long-running task support.
+- **[Worktree Parallel](https://github.com/nexoreai/worktree-parallel)** — a Codex skill for running isolated development work across parallel Git worktrees.
+
+## Earlier work
+
+- **Gitfolio** — built and sold an AI resume-builder SaaS.
+- **Metagood** — joined as the first engineer and helped launch OnChainMonkey.
+- **Decise.io** — delivered ordering experiences for City BBQ, Pieology, and Chipotle.
+- **LegixAI** — built AI-driven accounting workflows.
+
+## What I work across
+
+- Agent runtimes, tool protocols, and MCP integrations
+- Retrieval, semantic memory, and context systems
+- Human-in-the-loop workflows, evaluation, and observability
+- AI product engineering from prototype to production
+- Product experiences with a high level of visual polish
+
+## Stack
+
+TypeScript · React · Next.js · Python · FastAPI · AWS Bedrock and AgentCore · GCP Vertex AI · OpenAI · MCP · AG-UI
+
+## Elsewhere
+
+- **[YouTube — brandlax](https://www.youtube.com/@brandlax)** — coding, AI product demos, and creative technical experiments with more than 1M views.
+- **[X — @hellofahmid](https://x.com/hellofahmid)** — build notes, product ideas, and work in progress.
+
+## Open to
+
+Applied AI, AI platform, and founding engineer roles. Remote from Toronto, Canada.
