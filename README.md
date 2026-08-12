@@ -1,48 +1,33 @@
 # Fahmid Uddin
 
-Applied AI platform engineer, product builder, and founder. I build agent infrastructure and AI-native products.
+**Forward-Deployed Product Engineer — Building and Shipping AI Systems with Teams.**
 
-15 years building software across startups, product teams, and my own companies.
+Toronto-based founder-operator and hands-on engineer with 15 years of experience across frontend, backend, cloud systems, UX, infrastructure, automation, and creative technology.
 
-Toronto, Canada · [fahmid.com](https://fahmid.com) · [LinkedIn](https://linkedin.com/in/fahmidme) · [X](https://x.com/hellofahmid) · [Email](mailto:fahmid.me@gmail.com)
+I work from ambiguous operating problems through discovery, architecture, implementation, deployment, observability, and iteration.
 
-## What I’m building
+[fahmid.com](https://fahmid.com) · [LinkedIn](https://linkedin.com/in/fahmidme) · [X](https://x.com/hellofahmid) · [Email](mailto:fahmid.me@gmail.com)
 
-- **[Nexore / xOS](https://nexore.ai)** — a self-hosted AI control plane for agent workflows, semantic memory, and permission-aware integrations.
-- **[Optifly](https://optifly.ai)** — an AI travel command center that turns one prompt into an editable, shareable itinerary.
-- **AI Account Executive** — a research-to-pipeline system for lean teams, covering account research, outreach, and pipeline visibility.
+## Current work
+
+- **AI Account Executive** — 650+ tracked hours delivering a client AI sales platform through workflow discovery, implementation, production releases, integrations, billing, identity, administration, and observability.
+- **[Optifly](https://optifly.ai)** — AI-native travel planning with shareable itineraries, live inventory, and partner routing. Recent verified signals: 11,270 share-landing views, 13,362 itinerary loads, 201 booking clicks, and 90% plan progression.
+- **[Nexore / xOS](https://nexore.ai)** — an independent AI systems studio and a self-hosted control plane used in my own product and client work for agent workflows, semantic memory, MCP tooling, isolated sessions, and permission-aware operations.
 
 ## Selected engineering work
 
-- **[AgentCore AG-UI Starter](https://github.com/fahmidme/agentcore-agui-starter)** — streams a Strands agent from Amazon Bedrock AgentCore into a Next.js and CopilotKit interface over AG-UI. Includes CI, architecture documentation, security boundaries, and a production roadmap.
-- **[Incident Triage API](https://github.com/fahmidme/incident-triage-api)** — a FastAPI service with SQLite FTS5 retrieval, grounded OpenAI responses, citation validation, traces, tests, and synthetic incident data.
-- **[Nano Banana MCP](https://github.com/nexoreai/nano-banana-mcp)** — a TypeScript MCP server for Gemini image generation on Vertex AI, with GCS references, progress notifications, and long-running task support.
+- **[AgentCore AG-UI Starter](https://github.com/fahmidme/agentcore-agui-starter)** — streams a Strands agent from Amazon Bedrock AgentCore into a Next.js and CopilotKit interface over AG-UI, with architecture documentation, security boundaries, CI, and a production roadmap.
+- **[Incident Triage API](https://github.com/fahmidme/incident-triage-api)** — FastAPI incident-ticket search and triage with SQLite FTS5 retrieval, grounded responses, citation validation, traces, tests, and synthetic incident data.
+- **[Nano Banana MCP](https://github.com/nexoreai/nano-banana-mcp)** — TypeScript MCP server for Gemini image generation on Vertex AI with GCS references, progress notifications, and long-running task support.
 - **[Worktree Parallel](https://github.com/nexoreai/worktree-parallel)** — a Codex skill for running isolated development work across parallel Git worktrees.
 
 ## Earlier work
 
-- **Gitfolio** — built and sold an AI resume-builder SaaS.
-- **Metagood** — joined as the first engineer and helped launch OnChainMonkey.
+- **Gitfolio** — built and sold an AI résumé-builder SaaS.
+- **Metagood** — first engineering hire; helped launch OnChainMonkey.
 - **Decise.io** — delivered ordering experiences for City BBQ, Pieology, and Chipotle.
-- **LegixAI** — built AI-driven accounting workflows.
+- **LegixAI** — introduced a RAG architecture that reduced LLM pipeline cost by approximately 15× and increased processing speed by approximately 20×.
 
-## What I work across
+## Working with
 
-- Agent runtimes, tool protocols, and MCP integrations
-- Retrieval, semantic memory, and context systems
-- Human-in-the-loop workflows, evaluation, and observability
-- AI product engineering from prototype to production
-- Product experiences with a high level of visual polish
-
-## Stack
-
-TypeScript · React · Next.js · Python · FastAPI · AWS Bedrock and AgentCore · GCP Vertex AI · OpenAI · MCP · AG-UI
-
-## Elsewhere
-
-- **[YouTube — brandlax](https://www.youtube.com/@brandlax)** — coding, AI product demos, and creative technical experiments with more than 1M views.
-- **[X — @hellofahmid](https://x.com/hellofahmid)** — build notes, product ideas, and work in progress.
-
-## Open to
-
-Applied AI, AI platform, and founding engineer roles. Remote from Toronto, Canada.
+TypeScript · React · Next.js · Node.js · Python · AWS · GCP · RAG · MCP · agent workflows · evals · traces
