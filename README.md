@@ -10,7 +10,7 @@ I work from ambiguous operating problems through discovery, architecture, implem
 
 ## Current work
 
-- **AI Account Executive** — 650+ tracked hours delivering a client AI sales platform through workflow discovery, implementation, production releases, integrations, billing, identity, administration, and observability.
+- **AI Account Executive** — embedded fractional product-engineering work spanning discovery, delivery, deployment, and continued iteration with the team.
 - **[Optifly](https://optifly.ai)** — AI-native travel planning with shareable itineraries, live inventory, and partner routing. Recent verified signals: 11,270 share-landing views, 13,362 itinerary loads, 201 booking clicks, and 90% plan progression.
 - **[Nexore / xOS](https://nexore.ai)** — an independent AI systems studio and a self-hosted control plane used in my own product and client work for agent workflows, semantic memory, MCP tooling, isolated sessions, and permission-aware operations.
 
